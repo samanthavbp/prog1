@@ -57,6 +57,7 @@ int main()
     	printf("\nObrigado, ate a proxima! Para ver o meu codigo entre no link https://github.com/samanthavbp\n");
     
 		system("pause");
+		return 0;
     	
 		
 }
